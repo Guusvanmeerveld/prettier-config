@@ -1,0 +1,25 @@
+{
+  "trailingComma": "all",
+  "useTabs": true,
+  "semi": true,
+  "printWidth": 80,
+  "arrowParens": "always",
+  "importOrderSeparation": true,
+  "importOrder": [
+    "^./.*",
+    "^next.*",
+    "@nestjs/.*",
+    "^react$",
+    "^react.*",
+    "^axios",
+    "^swr",
+    "^@src/.*",
+    "^@interfaces/.*",
+    "^@models/.*",
+    "^@utils/.*",
+    "^@components/.*",
+    ".*scss$",
+    ".*css$",
+    "^@svg/.*"
+  ]
+}
