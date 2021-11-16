@@ -1,0 +1,22 @@
+{
+	"trailingComma": "all",
+	"useTabs": true,
+	"tabWidth": 4,
+	"semi": true,
+	"printWidth": 80,
+	"arrowParens": "always",
+	"importOrderSeparation": true,
+	"importOrder": [
+		"^axios",
+		"^@src/.*",
+		"^@interfaces/.*",
+		"^@models/.*",
+		"^@utils/.*",
+		"^@components/.*",
+		".*scss$",
+		".*css$",
+		"^@svg/.*",
+		"^./.*",
+		"^../.*"
+	]
+}
