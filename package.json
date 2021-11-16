@@ -5,7 +5,7 @@
 	},
 	"version": "1.0.0",
 	"description": "My personal prettier configs",
-	"main": ".prettierrc.json",
+	"main": ".prettierrc.js",
 	"repository": "https://github.com/Guusvanmeerveld/prettier-config",
 	"license": "MIT",
 	"private": false
